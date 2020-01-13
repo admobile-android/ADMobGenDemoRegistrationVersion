@@ -1,0 +1,2 @@
+# ADMobGenDemoRegistrationVersion
+ADMobGenSdkDemo，头条自注册版本
