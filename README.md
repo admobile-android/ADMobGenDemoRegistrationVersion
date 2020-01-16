@@ -12,6 +12,8 @@
 | inmobi-release      | 1.2.2.1     | 7.2.9        |
 | mobvsita-release    | 1.2.2.1     | 10.1.0       |
 
+<font color=#ff0000>SDK接入文档请查看 ADMobGenSdkDocument.pdf </font>
+
 
 
 #### 2.修订日志
