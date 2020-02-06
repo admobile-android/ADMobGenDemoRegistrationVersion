@@ -1,4 +1,4 @@
-# ADMobGenDemo商务版
+# ADMobGenDemo自注册版
 
 #### 1.SDK版本号对照表
 
