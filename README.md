@@ -12,7 +12,11 @@
 | inmobi-release      | 1.2.2.2    | 7.4.1   |
 | mobvsita-release    | 1.2.2.2    | 10.1.19 |
 
-<font color=#ff0000>SDK接入文档请查看目录中 ADMobGenSdkDocument.pdf </font>
+**1. SDK接入文档请查看目录中 ADMobGenSdkDocument.pdf **
+
+**2. 自注册版将不再维护，具体请参考商务版。**
+
+> [ADMobGenDemo头条商务版链接](https://github.com/admobile-android/ADMobGenDemoCommercialVersion)
 
 
 
